@@ -22,8 +22,7 @@ void times_table(void)
 	_putchar(w + '0');
 	_putchar(q + '0');
 	}
-	else 
-	if (m != 0)
+	else if (m != 0)
 	{
 	_putchar(44);
 	_putchar(32);
@@ -33,5 +32,5 @@ void times_table(void)
 	}
 	}
 	_putchar('\n');
-	}
+}
 
