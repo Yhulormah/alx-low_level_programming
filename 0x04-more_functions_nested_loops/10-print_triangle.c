@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
 *print_triangle - prints a triangle
 *@size:size parameter of triangle
@@ -23,6 +24,9 @@ continue;
 
 _putchar('\n');
 }
-}
+
 _putchar('\n');
 }
+}
+}
+
