@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*_isdigit - checking if a  character is a digit or not
+*_isdigit - verify if a character is a digit or not
 *@c: tested character
 *Return: returns 1 if it is uppercase , 0 if not
 */
