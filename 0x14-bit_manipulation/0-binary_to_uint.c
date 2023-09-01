@@ -1,8 +1,8 @@
-#include "main.h"
+#include <main.h>
 #include <stdio.h>
 
 /**
- * binary_to_uint - a convesion of a binary number to an unsigned int
+ * binary_to_uint - convesion of a binary number to an unsigned int
  * @b: char string of the number
  * Return: converted decimal number or 0
  */
