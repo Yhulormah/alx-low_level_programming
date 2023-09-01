@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * flip_bits - flip bits in other to get one number to another
+ * flip_bits - flip bits to get one number to another
  * @n: first number
  * @m: second number
  * Return: number of bits that was needed to flip
