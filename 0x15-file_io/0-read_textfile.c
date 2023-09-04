@@ -2,12 +2,12 @@
 #include <stdlib.h>
 
 /**
- * read_textfile - To write a function that Reads a text file, prints to stdout.
- * @filename: A pointer to the read file.
- * @letters: The numbers  of letters to be read and print.
- *
- * Return: If the filename is Null - 0 or the function fails
- */
+ * read_textfile - a function that Reads a text file, prints to stdout.
+ * @filename: A pointer to the read file.
+ * @letters: The numbers  of letters to be read and print.
+ *
+ * Return: If the filename is Null - 0 or the function fails
+ */
 ssize_t read_textfile(const char *filename, size_t letters)
 {
 ssize_t o, r, w;
@@ -35,3 +35,4 @@ close(o);
 
 return (w);
 }
+
